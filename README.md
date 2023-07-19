@@ -1,8 +1,7 @@
-### Hi there 👋
-
+### Hi there I am Vaidik Jetani 👋
 <!--
 **vaidik2626/vaidik2626** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+I am passionate 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am passionate about MERN stack and Cloud computing
