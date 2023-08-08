@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am passionate about MERN stack and Cloud computing
-🔭 I’m currently studying in CHARUSAT university.
-If you Want to reach me then You can mail : vaidikjetani2003@gmail.com
+- I am passionate about MERN stack and Cloud computing
+- 🔭 I’m currently studying in CHARUSAT university.
+- If you Want to reach me then You can mail : vaidikjetani2003@gmail.com
