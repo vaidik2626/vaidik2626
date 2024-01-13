@@ -8,6 +8,7 @@ MERN Stack Developer
 * 🖥️  See my portfolio at [This Site](http://vaidik-jetani.vercel.app)
 * ✉️  You can contact me at [vaidikjetani2003@gmail.com](mailto:vaidikjetani2003@gmail.com)
 * 🤝  I'm open to collaborating on Mern Stack based project, Devops Based Project and nextjs Based project
+* I am Open For Internship also.
 
 ### Skills
 
